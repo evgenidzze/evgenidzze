@@ -1,7 +1,5 @@
 - 👋 <h1>Hi, I’m @evgenidzze</h1>
 - 👀 I’m interested in Python development
-- 🌱 I’m currently learning JavaScript, Git, Python, SQL
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: evgeniysmetanyuk@gmail.com
 
 <!---
