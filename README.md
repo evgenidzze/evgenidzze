@@ -1,5 +1,4 @@
 - 👋 <h1>Hi, I’m @evgenidzze</h1>
-- 👀 I’m interested in Python development
 - 📫 How to reach me: evgeniysmetanyuk@gmail.com
 
 <!---
